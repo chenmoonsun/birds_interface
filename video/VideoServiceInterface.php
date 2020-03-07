@@ -6,6 +6,6 @@ namespace App\Interfaces;
  *
  * @author chenyueyang
  */
-interface MovieServiceInterface {
+interface VideoServiceInterface {
     public function play_info($v_id):array;
 }

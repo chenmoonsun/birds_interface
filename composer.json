@@ -1,5 +1,5 @@
 {
-    "name": "chenyueyang/birds-interface",
+    "name": "chenyueyang/birds-video-interface",
     "description": "Interfaces",
     "authors": [
         {
@@ -12,7 +12,7 @@
     },
     "autoload": {
         "psr-4": {
-            "App\\Interfaces\\video\\": "App/Interfaces/video/"
+            "App\\Interfaces\\": "video/"
         }
     }
 }
